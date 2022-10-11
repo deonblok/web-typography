@@ -10,6 +10,7 @@ Feel free to adjust the defaults to your needs.
     opacity: 0;
     transition: .05s;
     position: absolute;
+    color: white;
 }
 
 #closed-captions .on {
@@ -42,6 +43,7 @@ You probably want to change the styling.
 .p0 span {
     opacity: 0;
     font-family: brenner;
+    text-shadow: 0px 0px 7px rgba(52, 52, 224, 1), 0px 0px 18px rgba(222, 5, 26, 1);
 }
 
 .p0.on span:first-of-type {
@@ -122,6 +124,23 @@ You probably want to change the styling.
     font-size: 100px;
 }
 
+.cellstest {
+    font-family: "Brenner Sans Condensed";
+    font-style: Italic;
+    font-weight: 600;
+    color: aqua;
+}
+
+.p3.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s 6s;
+    font-family: "brenner display";
+    background: #CF3125;
+    background: linear-gradient(to bottom, #CF3125 45%, #1C0302 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 
 /* **********************************************
 Sounds.
@@ -133,7 +152,42 @@ Sounds.
 
 /* The moment the class .sound1 is added to the body, the background is yellow */
 
-.sound1 {}
+.sound1 {
+    background-color: red;
+}
+
+.sound2 {
+    background-color: black;
+}
+
+
+/* .sound3 {
+    background-color: hotpink;
+}
+
+.sound4 {
+    background-color: rebeccapurple;
+}
+
+.sound5 {
+    background-color: goldenrod;
+}
+
+.sound6 {
+    background-color: greenyellow;
+}
+
+.sound7 {
+    background-color: red;
+}
+
+.sound8 {
+    background-color: pink;
+}
+
+.sound9 {
+    background-color: papayawhip;
+} */
 
 
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
@@ -151,10 +205,16 @@ body {
     height: 100vh;
     margin: 0;
     justify-content: center;
+    background-color: black;
 }
 
 #video-container {
     margin: auto;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
 
 #video-mask {
