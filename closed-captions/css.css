@@ -152,9 +152,7 @@ Sounds.
 
 /* The moment the class .sound1 is added to the body, the background is yellow */
 
-.sound1 {
-    background-color: red;
-}
+.sound1 {}
 
 .sound2 {
     background-color: black;
@@ -192,7 +190,10 @@ Sounds.
 
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 
-.sound1 #video-mask {}
+.sound1 #video-mask {
+    border: 1px solid;
+    box-shadow: 0px 0px 20px red;
+}
 
 
 /* **********************************************
