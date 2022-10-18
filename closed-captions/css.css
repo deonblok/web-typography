@@ -6,11 +6,23 @@ Hide them when they receive the class 'off'
 Feel free to adjust the defaults to your needs.
 ********************************************** */
 
+#closed-captions {
+    text-align: center;
+    position: relative;
+}
+
 #closed-captions p {
     opacity: 0;
     transition: .05s;
     position: absolute;
     color: white;
+    bottom: 2em;
+    left: 12em;
+    right: 12em;
+}
+
+#closed-captions span {
+    background-color: black;
 }
 
 #closed-captions .on {
@@ -47,7 +59,7 @@ You probably want to change the styling.
 .p0 span {
     opacity: 0;
     font-family: brenner;
-    text-shadow: 0px 0px 7px rgba(52, 52, 224, 1), 0px 0px 18px rgba(222, 5, 26, 1);
+    /* text-shadow: 0px 0px 18px rgb(49, 196, 120); */
 }
 
 .p0.on span:first-of-type {
