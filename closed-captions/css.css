@@ -42,7 +42,7 @@ Feel free to adjust the defaults to your needs.
     font-weight: bold;
 }
 
-.voice2 .on {
+.voice2.on {
     color: red;
 }
 
@@ -65,6 +65,7 @@ You probably want to change the styling.
     font-family: brenner;
     font-family: "brenner mono bold";
     /* text-shadow: 0px 0px 18px rgb(49, 196, 120); */
+    text-decoration: underline;
 }
 
 .p0.on span:first-of-type {
@@ -72,6 +73,7 @@ You probably want to change the styling.
     transition: 0s;
     font-weight: 200;
     font-family: "brenner mono bold";
+    text-decoration: underline;
 }
 
 .p0.on span:nth-of-type(2) {
@@ -80,6 +82,7 @@ You probably want to change the styling.
     margin-right: -.25em;
     font-weight: 400;
     font-family: "brenner mono bold";
+    text-decoration: underline;
 }
 
 .p0.on span:nth-of-type(3) {
@@ -149,15 +152,17 @@ You probably want to change the styling.
     color: aqua;
 }
 
-.p3.on span:nth-of-type(2) {
+
+/* .p3.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s 6s;
     font-family: "brenner mono bold";
-    background: #CF3125;
+    color: white;
+    /* background: #CF3125;
     background: linear-gradient(to bottom, #CF3125 45%, #1C0302 100%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+    -webkit-text-fill-color: transparent; 
+} */
 
 .p6.on span:first-of-type {
     opacity: 1;
@@ -217,7 +222,8 @@ Sounds.
 /* The moment the class .sound1 is added to the body, the background is yellow */
 
 .sound1 {
-    animation: vibrate 2s ease 0s 1 normal forwards;
+    animation: vibrate 1s ease 0s 1 normal forwards;
+    background-color: darkred;
 }
 
 @keyframes vibrate {
@@ -256,11 +262,18 @@ Sounds.
     }
 }
 
+.sound1 #video-mask {
+    border: 1px solid;
+    box-shadow: 0 0 200px rgb(255, 255, 255)
+}
+
 
 /* start after siren */
 
 .sound2 {
-    background-color: rgb(208, 49, 49);
+    background-color: black;
+    border: none;
+    box-shadow: none;
 }
 
 .sound3 {
@@ -316,7 +329,7 @@ Sounds.
 } */
 
 .sound10 {
-    background-color: papayawhip;
+    background-color: white;
 }
 
 .sound11 {
@@ -342,12 +355,7 @@ Sounds.
 } */
 
 
-/* .sound2 #video-mask {
-    border: none;
-    box-shadow: none;
-} */
-
-.sound3 #video-mask {
+/* .sound3 #video-mask {
     border: 1px solid;
     box-shadow: 0 0 200px rgb(255, 255, 255);
 }
@@ -355,7 +363,7 @@ Sounds.
 .sound4 #video-mask {
     border: none;
     box-shadow: none;
-}
+} */
 
 
 /* **********************************************
