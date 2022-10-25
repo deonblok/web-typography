@@ -21,8 +21,8 @@ Feel free to adjust the defaults to your needs.
     right: 12em;
     font-family: "brenner mono bold";
     background-color: black;
-    width: max-content;
-    text-align: center;
+    max-width: max-content;
+    margin: auto;
 }
 
 #closed-captions .on {
@@ -51,7 +51,8 @@ Feel free to adjust the defaults to your needs.
 }
 
 .voice3.on {
-    color: blue !important;
+    color: #FF001A !important;
+    font-style: italic;
 }
 
 .voice4.on {
@@ -92,49 +93,40 @@ Sounds.
 /* The moment the class .sound1 is added to the body, the background is yellow */
 
 .sound1 {
-    animation: vibrate 1s ease 0s 1 normal forwards;
+    animation: shake 1s ease 0s 1 alternate forwards;
     background-color: darkred;
 }
 
-@keyframes vibrate {
-    0% {
-        transform: translate(0);
+@keyframes shake {
+    0%,
+    100% {
+        transform: translateX(0);
     }
-    10% {
-        transform: translate(-2px, -2px);
-    }
-    20% {
-        transform: translate(2px, -2px);
-    }
-    30% {
-        transform: translate(-2px, 2px);
-    }
-    40% {
-        transform: translate(2px, 2px);
-    }
-    50% {
-        transform: translate(-2px, -2px);
-    }
-    60% {
-        transform: translate(2px, -2px);
-    }
+    10%,
+    30%,
+    50%,
     70% {
-        transform: translate(-2px, 2px);
+        transform: translateX(-10px);
+    }
+    20%,
+    40%,
+    60% {
+        transform: translateX(10px);
     }
     80% {
-        transform: translate(-2px, -2px);
+        transform: translateX(8px);
     }
     90% {
-        transform: translate(2px, -2px);
-    }
-    100% {
-        transform: translate(0);
+        transform: translateX(-8px);
     }
 }
 
 .sound1 #video-mask {
-    border: 1px solid;
-    box-shadow: 0 0 20px rgb(255, 255, 255)
+    box-shadow: 0px 0px 98px 65px #FF0000, 0px 0px 57px 69px #1D0101;
+}
+
+.sound2 #video-mask {
+    box-shadow: none;
 }
 
 
@@ -142,12 +134,32 @@ Sounds.
 
 .sound2 {
     background-color: black;
-    border: none;
+}
+
+.sound3 #video-mask {
+    box-shadow: 0px 0px 98px 30px #ffffff;
+}
+
+.sound4 #video-mask {
     box-shadow: none;
 }
 
-.sound3 {
-    animation: scale 1s ease-out 0s 1 normal none;
+.sound5 {
+    background-color: black;
+}
+
+.sound5 #video-mask {
+    box-shadow: 0px 0px 98px 65px #FF0000;
+}
+
+.sound6 #video-mask {
+    box-shadow: none;
+    background-color: black;
+}
+
+.sound7 #video-mask {
+    animation: scale 36s ease-in-out 0s 1 normal forwards;
+    border: none;
 }
 
 @keyframes scale {
@@ -156,33 +168,15 @@ Sounds.
         transform: scale(1);
     }
     100% {
-        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+        box-shadow: 0 0 70px 150px white;
         transform: scale(1.1);
     }
 }
 
-.sound4 {
-    background-color: rebeccapurple;
-}
-
-.sound5 {
-    background-color: goldenrod;
-}
-
-.sound6 {
-    background-color: greenyellow;
-}
-
-.sound7 {
-    background-color: magenta;
-}
-
-.sound8 {
-    background-color: pink;
-}
-
-.sound9 {
-    background-color: salmon;
+.sound9 #video-mask {
+    box-shadow: none;
+    transition: none;
+    animation: none;
 }
 
 
@@ -498,12 +492,18 @@ er gezegd wordt op dat moment.
     opacity: 1;
     transition: 0s;
     font-family: "brenner mono bold";
+    text-decoration: line-through;
+    text-decoration-color: white;
+    text-decoration-thickness: .07em;
 }
 
 .p6.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s .4s;
     font-family: "brenner mono bold";
+    text-decoration: line-through;
+    text-decoration-color: white;
+    text-decoration-thickness: .07em;
 }
 
 .p6.on span:nth-of-type(3) {
