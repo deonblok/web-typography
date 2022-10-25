@@ -64,20 +64,17 @@ Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespe
 
 *let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
 
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
+Typografie
+Voor de typografie heb ik gekozen voor het Brenner font, dit heb ik gekozen omdat ik hier de meeste kansen en verschillende mogelijkheden in zag. Door de verschillende soorten kan ik kiezen welke bij wat voor personage past. Ik heb gekozen voor Brenner Mono Bold. Een simpele een stevige letter. De personages (voice 1 & voice 2) praten beide erg streng en bazig waardoor ik vond dat er een bold font bij aansloot.
 
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
+Voor voice 3  het personage met een zin, Fuck off, skin-job! heb ik gekozen om het in een italic stijl te plaatsen. Zo valt het voor de kijker op dat er iets “speciaals” aan de hand is met deze zin. Dit personage loopt voorbij en brengt in de paar seconden een onprettige sfeer met zich mee. Om de sfeer te proberen over te brengen heb ik de woorden Fuck Off een line-through gegeven om aan te geven dat dit aantoongevende woorden zijn. Verder heb de woorden wel op normaal groote gelaten omdat het verder redelijk timide maar krachtig werd uitgesproken en ik de kijker niet het gevoel wilde geven dat het geschreeuwd werd.
 
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
-
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+De vierde stem/ het vierde personage is voice 4. Deze komt in mij  einde terug in de filmscène. Het is een wat kalmere stem vergeleken de andere drie, ergens ook wel een beetje opgewekt.  Ik heb ook dit personage in Brenner Mono Bold  gedaan omdat ondanks hij wat kalmer is is de boodschap wel scherp. Hierdoor heb ik een contrast met kleur en typografie gebruikt om het gevoel zo goed mogelijk over te brengen op de kijker.
+ 
+Kleurkeuze
+Ik heb er voor gekozen de kijker een echt filmbeleving te proberen te geven. Een zwarte achtergrond zodat de filmscène er goed in naar voren komt.  Voor de verschillende personages heb ik ook verschillende kleuren gebruikt. Zo heb ik voor voice 1  een lichte groen blauwe neon kleur gebruikt. Deze komt goed naar voren op de zwarte achtergrond. Voor voice 2 heb ik gekozen voor een neon roze kleur. Ook deze kleur komt goed naar voren met de zwarte achtergrond. De kleuren van Voice 1 & Voice 2 heb ik gebaseerd op het allereerste beeld van deze film scene. De twee neon-borden zijn dezelfde kleuren. 
+Voor Voice 3 heb ik een rode kleur uitgekozen. Rood wordt vaak geassocieerd met kwaad en boos zijn. Doordat het personage aan het vloeken is in de scene heb ik dit gevoel proberen over te brengen.
+Als laatste voice 4, Voice 4 is een wat zachtere en timide stem met een duidelijke boodschap. Doordat ik al een wat stevigere letter heb uitgekozen wilde ik een goede balans vormen voor dit personage. Ik heb gekozen voor een gele kleur, geel wordt gezien als een vrolijke en lieve kleur. Vandaar dat ik een stevige letter wilde combineren met een wat lievere kleur om zo de balans te vinden en ook hier een gevoel mee heb proberen over te brengen.
+ 
+In de scènes gaan er sirenes en/of alarmen af. Dit zijn vaak noodsignalen en zijn meestal rood. Ik heb daarom ervoor gekozen om een rode kleur te gebruiken voor deze geluiden zodat een doof persoon ook snel deze link kan leggen. Naast de rode kleur heb ik ook gekozen voor wit. Dit heb   ik gedaan voor de schelle geluiden. Omdat het witte licht al snel pijn gaat doen aan ogen en en de schelle geluiden aan de oren wilde ik deze ervaring hetzelfde houden. 
+Ook is het geluid van de sire/alarm aan het opbouwen van heel zacht naar steeds luider. Hier heb ik ook wit voor gebruikt. het licht wordt steeds feller naarmate het geluid toeneemt. Zo heb ik geprobeerd dezelfde opbouwende spanning te creëren
