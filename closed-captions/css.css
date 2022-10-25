@@ -152,7 +152,7 @@ You probably want to change the styling.
 .p3.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s 6s;
-    font-family: "brenner display";
+    font-family: "brenner mono bold";
     background: #CF3125;
     background: linear-gradient(to bottom, #CF3125 45%, #1C0302 100%);
     -webkit-background-clip: text;
@@ -256,8 +256,11 @@ Sounds.
     }
 }
 
+
+/* start after siren */
+
 .sound2 {
-    background-color: black;
+    background-color: rgb(208, 49, 49);
 }
 
 .sound3 {
@@ -288,10 +291,7 @@ Sounds.
 }
 
 .sound7 {
-    background: linear-gradient(-10deg, #CDC9C9, #821515);
-    background-size: 400% 400%;
-    animation: gradient 1.8s ease infinite;
-    height: 100vh;
+    background-color: magenta;
 }
 
 .sound8 {
@@ -299,10 +299,11 @@ Sounds.
 }
 
 .sound9 {
-    background-color: palegreen;
+    background-color: salmon;
 }
 
-@keyframes gradient {
+
+/* @keyframes gradient {
     0% {
         background-position: 0% 50%;
     }
@@ -312,10 +313,18 @@ Sounds.
     100% {
         background-position: 0% 50%;
     }
-}
+} */
 
 .sound10 {
     background-color: papayawhip;
+}
+
+.sound11 {
+    background-color: blueviolet;
+}
+
+.sound12 {
+    background-color: darkolivegreen;
 }
 
 
