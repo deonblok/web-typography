@@ -39,7 +39,7 @@ Feel free to adjust the defaults to your needs.
 }
 
 .voice1.on {
-    color: green !important;
+    color: #60ecbd !important;
 }
 
 .voice2 {
@@ -47,7 +47,7 @@ Feel free to adjust the defaults to your needs.
 }
 
 .voice2.on {
-    color: red !important;
+    color: #C66FCA !important;
 }
 
 .voice3.on {
@@ -158,7 +158,7 @@ Sounds.
 }
 
 .sound7 #video-mask {
-    animation: scale 36s ease-in-out 0s 1 normal forwards;
+    animation: scale 34s ease-in-out 0s 1 normal forwards;
     border: none;
 }
 
@@ -173,7 +173,7 @@ Sounds.
     }
 }
 
-.sound9 #video-mask {
+.sound8 #video-mask {
     box-shadow: none;
     transition: none;
     animation: none;
@@ -347,6 +347,12 @@ er gezegd wordt op dat moment.
 .p1.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s .4s;
+    font-family: "brenner mono bold";
+}
+
+.p1.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .5s;
     font-family: "brenner mono bold";
 }
 

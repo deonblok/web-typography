@@ -17,7 +17,7 @@ sounds = [
     // paars       16->17 paars
     30.2,
     // magenta 7    15->17 zwart naar wit 
-    76,
+    72,
     // pink 8
     79,
     // // zalm 9
