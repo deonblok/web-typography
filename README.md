@@ -101,5 +101,5 @@ Gebruikt voor kleuronderzoek vooral naar kleuren op zwart.
 Veschillende keyframe animaties, het schudden en blinken heb ik hier vandaan.
 
 --- 
-Deon Blok - Hogeschool van Amsterdam - Minor Visual Interface Design - Webtypografie
+### Deon Blok - Hogeschool van Amsterdam - Minor Visual Interface Design - Webtypografie
 ---
