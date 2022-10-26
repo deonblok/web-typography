@@ -45,19 +45,19 @@ Ook is het geluid van de sirene/alarm aan het opbouwen van heel zacht naar steed
 Ik heb twee voortgangsgesprekken gehad. Hieruit heb ik veel input, feedback en inspiratie gekregen. Hieronder een kort overzicht van de feedbackpunten.
 
 Voortgangsgesprek 1
--Lekker bezig, probeer goed uit te leggen waarom je welke keuze maakt.
--Het mag nog veel expressiever. 
-*Tip: ga zoveel mogelijk code typen, gooi veel css op het scherm. Experimenteer!*
+- Lekker bezig, probeer goed uit te leggen waarom je welke keuze maakt.
+- Het mag nog veel expressiever. 
+- *Tip: ga zoveel mogelijk code typen, gooi veel css op het scherm. Experimenteer!*
 
 Ik heb geprobeerd na deze feedback goed te kijken hoe ik het expressiever kon maken. Dit heb ik uiteindelijk gedaan door verschillende kleuren, grote licht flitsen en beweging van het frame. Ik heb ook mega veel css getypt van alles om uit te testen. Wat past er bij, wat niet. Vaak liet ik deze css code hidden staan zodat ik later in het proces het nog kon gaan gebruiken en anders als nog kon wissen. 
 
 
 Voortgangsgesprek 2
--​​Goede leesbaarheid voor de kleuren uitzoeken.
--Persoonlijkheid toevoegen typografie.
--Effecten weinig feedback voor omdat ik daar nog niet veel van had.
--Bloodblack is meer tekst dan meaning overbrengen.
--Geluid en tekst gescheiden houden. Vormgeven wat je hoort!
+- ​Goede leesbaarheid voor de kleuren uitzoeken.
+- Persoonlijkheid toevoegen typografie.
+- Effecten weinig feedback voor omdat ik daar nog niet veel van had.
+- Bloodblack is meer tekst dan meaning overbrengen.
+- Geluid en tekst gescheiden houden. Vormgeven wat je hoort!
 
 Ik heb onderzoek gedaan naar juiste kleuren voor op een zwarte achtergrond. Ik heb deze kleurne uitgezocht in samenhanging met de film zodat het wel een geheel kon blijven. Ik had voor dit voortgangsgesprek nog niet echt veel effecten waardoor ik hier geen feedback op heb. In een van mijn eerste iteraies heb ik het woord Blood-black een gardient gegeven met zwrat en rood. Tijdens mijn feedback werd er gezegd dat blood-black helemaal geen meerwaarde heeft aan de film om het extra aandacht te geven. Daarom heb ik het bij een nieuwe iteratie verwijderd omdat het voor een doof persoon verwarrend kan worden als hier de nadruk op gelegd wordt.
 Ik vond het lastig om inspiratie te krijgen voor het project. Ik merkte dat ik snel ging neigen naar de visuele aspecten in de film, een grote valkuil dus. Ik moest mij juist focussen op wat ik hoorde. Ik heb de video heel veel keer achterelkaar bekeken om goed te luisteren naar de geluiden. Zo ben ik gaan denken: Wat hoor ik? Wat voel ik? Wat willen ze overbrengen? Hoe kan ik dezelfde ervaring overbrengen aan iemand die het niet kan horen?
