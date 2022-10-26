@@ -15,54 +15,14 @@ En dat gaan jullie doen.
 - Je kan je typografische keuzes onderbouwen.
 - Je hebt de exclusive design principles gebruikt.
 
-## Oplevering
-
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
-
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
-
-De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
-
-## Typografische restricties
-
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
-
-### Optie 1: Systeemfont
-
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
-
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
-
-### Optie 2: Brenner
-
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
-
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
-
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
-
-## Het fragment
-
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
-
-### De captions
-
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
-
-Met JavaScript worden er een paar dingen extra gedaan: 
-
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
-
-### Tijdens het afspelen
-
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
+## Inhoud
+1. Typografie
+2. Kleurkeuze
+3. Feedbacksessies/Voortgangsgesprekken
+4. Testen
+5. Exclusive Design Principles
+6. Nawoord
+7. Bronnen
 
 ## Typografie
 
@@ -79,19 +39,37 @@ Voor Voice 3 heb ik een rode kleur uitgekozen. Rood wordt vaak geassocieerd met 
 Als laatste voice 4, Voice 4 is een wat zachtere en timide stem met een duidelijke boodschap. Doordat ik al een wat stevigere letter heb uitgekozen wilde ik een goede balans vormen voor dit personage. Ik heb gekozen voor een gele kleur, geel wordt gezien als een vrolijke en lieve kleur. Vandaar dat ik een stevige letter wilde combineren met een wat lievere kleur om zo de balans te vinden en ook hier een gevoel mee heb proberen over te brengen.
  
 In de scènes gaan er sirenes en/of alarmen af. Dit zijn vaak noodsignalen en zijn meestal rood. Ik heb daarom ervoor gekozen om een rode kleur te gebruiken voor deze geluiden zodat een doof persoon ook snel deze link kan leggen. Naast de rode kleur heb ik ook gekozen voor wit. Dit heb   ik gedaan voor de schelle geluiden. Omdat het witte licht al snel pijn gaat doen aan ogen en en de schelle geluiden aan de oren wilde ik deze ervaring hetzelfde houden. 
-Ook is het geluid van de sire/alarm aan het opbouwen van heel zacht naar steeds luider. Hier heb ik ook wit voor gebruikt. het licht wordt steeds feller naarmate het geluid toeneemt. Zo heb ik geprobeerd dezelfde opbouwende spanning te creëren
+Ook is het geluid van de sirene/alarm aan het opbouwen van heel zacht naar steeds luider. Hier heb ik ook wit voor gebruikt. Het licht wordt steeds feller naarmate het geluid toeneemt. Zo heb ik geprobeerd dezelfde opbouwende spanning te creëren.
 
 ## Feedbacksessies/Voortgangsgesprekken
+Ik heb twee voortgangsgesprekken gehad. Hieruit heb ik veel input, feedback en inspiratie gekregen. Hieronder een kort overzicht van de feedbackpunten.
+
+Voortgangsgesprek 1
+-Lekker bezig, probeer goed uit te leggen waarom je welke keuze maakt.
+-Het mag nog veel expressiever. 
+*Tip: ga zoveel mogelijk code typen, gooi veel css op het scherm. Experimenteer!*
+
+Ik heb geprobeerd na deze feedback goed te kijken hoe ik het expressiever kon maken. Dit heb ik uiteindelijk gedaan door verschillende kleuren, grote licht flitsen en beweging van het frame. Ik heb ook mega veel css getypt van alles om uit te testen. Wat past er bij, wat niet. Vaak liet ik deze css code hidden staan zodat ik later in het proces het nog kon gaan gebruiken en anders als nog kon wissen. 
 
 
+Voortgangsgesprek 2
+-​​Goede leesbaarheid voor de kleuren uitzoeken.
+-Persoonlijkheid toevoegen typografie.
+-Effecten weinig feedback voor omdat ik daar nog niet veel van had.
+-Bloodblack is meer tekst dan meaning overbrengen.
+-Geluid en tekst gescheiden houden. Vormgeven wat je hoort!
 
+Ik heb onderzoek gedaan naar juiste kleuren voor op een zwarte achtergrond. Ik heb deze kleurne uitgezocht in samenhanging met de film zodat het wel een geheel kon blijven. Ik had voor dit voortgangsgesprek nog niet echt veel effecten waardoor ik hier geen feedback op heb. In een van mijn eerste iteraies heb ik het woord Blood-black een gardient gegeven met zwrat en rood. Tijdens mijn feedback werd er gezegd dat blood-black helemaal geen meerwaarde heeft aan de film om het extra aandacht te geven. Daarom heb ik het bij een nieuwe iteratie verwijderd omdat het voor een doof persoon verwarrend kan worden als hier de nadruk op gelegd wordt.
+Ik vond het lastig om inspiratie te krijgen voor het project. Ik merkte dat ik snel ging neigen naar de visuele aspecten in de film, een grote valkuil dus. Ik moest mij juist focussen op wat ik hoorde. Ik heb de video heel veel keer achterelkaar bekeken om goed te luisteren naar de geluiden. Zo ben ik gaan denken: Wat hoor ik? Wat voel ik? Wat willen ze overbrengen? Hoe kan ik dezelfde ervaring overbrengen aan iemand die het niet kan horen?
 
 
 ## Testen
 
+Ik vind het belangrijk om altijd je product te testen. Ik heb hierdoor in mijn eigen omgeving thuis gevraagd om mij hierbij te helpen. Ik heb de video getest met en zonder geluid. Dit heb ik gedaan om personen die buiten dit project staan de juiste ervaring te geven. Uit deze testen kon ik nieuwe iteraties maken op bijvoorbeeld de luide pieptoon aan het einde van het 1e fragment. Ik had eerst ene half witte box-shadow en deze heb ik volledig gemaakt voor een betere ervaring.
 
 ## Exclusive Design Principles
 Study Situation
+
 Ignore Conventions
 Prioritise Identity
 Add Nonsense
