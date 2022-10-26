@@ -80,3 +80,26 @@ Als laatste voice 4, Voice 4 is een wat zachtere en timide stem met een duidelij
  
 In de scènes gaan er sirenes en/of alarmen af. Dit zijn vaak noodsignalen en zijn meestal rood. Ik heb daarom ervoor gekozen om een rode kleur te gebruiken voor deze geluiden zodat een doof persoon ook snel deze link kan leggen. Naast de rode kleur heb ik ook gekozen voor wit. Dit heb   ik gedaan voor de schelle geluiden. Omdat het witte licht al snel pijn gaat doen aan ogen en en de schelle geluiden aan de oren wilde ik deze ervaring hetzelfde houden. 
 Ook is het geluid van de sire/alarm aan het opbouwen van heel zacht naar steeds luider. Hier heb ik ook wit voor gebruikt. het licht wordt steeds feller naarmate het geluid toeneemt. Zo heb ik geprobeerd dezelfde opbouwende spanning te creëren
+
+## Feedbacksessies/Voortgangsgesprekken
+
+
+
+
+
+## Uittesten
+
+
+## Exclusive Design Principles
+Study Situation
+Ignore Conventions
+Prioritise Identity
+Add Nonsense
+
+
+## Nawoord
+---
+Webtypgrafie vond ik een erg lastig vak. Code is een onderwerp waar ik veel moeite mee heb en hierdoor minder leuk ben gaan vinden dan voorheen. Maar ondanks ik het een moeilijke opdracht vond heb ik er wel ontzettend veel van geleerd en het zelfs leuk gevonden! Iets wat ik uiteindelijk erg belangrijk vind. > Ik heb mijzelf uitgedaagd voor deze opdracht en ik ben er best wel trots op. Ik heb helaas wel een 2e fragment moeten laten vallen omdat ik heel lang ben bezig geweest met het uitzoeken hoe alles werkt. Daarom heb ik alleen het 1e fragment zo goed mogelijk proberen neer te zetten!
+
+
+## Bronnen
