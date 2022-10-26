@@ -73,14 +73,14 @@ Ik vind het belangrijk om altijd je product te testen. Ik heb hierdoor in mijn e
 Ik heb voor dit project verschillende onderzoeken gedaan. Onderzoek naar verschillende css code & onderzoek naar de film en onderliggende feiten van de film. Ook heb ik wat gelezen over doofheid om mij beter in te leven in de doelgroep (een doof persoon). 
 
 ### Ignore Conventions
-Iedereen wilt begrijpen wat waar voor staat. Hier zijn standaard conventies voor omdat je zoveel mogelijk mensen wilt bereiken en het product laten begrijpen. Helaas zijn ook talloze mensen die hier buiten vallen waardoor zij niet de zelfde ervaring kunnen hebben als anderen. Zo ook een doof persoon. Zij beleven een film heel anders dan iemand die de film kan horen. Voor dove personen zijn er vaak als standaard conventie ondertitels met audiodiscriptie. Ik wilde dit doorbreken door geen audiodescriptie toe te voegen en de gebruiker echt kan zien wat er afgspeeld wordt op dat moment. Ook heb ik geen standaard kleur gekozen voor de teksten om zo mijn eigen draai er aan te geven.
+Iedereen wilt begrijpen wat waar voor staat. Hier zijn standaard conventies voor omdat je zoveel mogelijk mensen wilt bereiken en het product laten begrijpen. Helaas zijn ook talloze mensen die hier buiten vallen waardoor zij niet de zelfde ervaring kunnen hebben als anderen. Zo ook een doof persoon. Zij beleven een film heel anders dan iemand die de film kan horen. Voor dove personen zijn er vaak als standaard conventie ondertitels met audiodescriptie. Ik wilde dit doorbreken door geen audiodescriptie toe te voegen en de gebruiker echt kan zien wat er afgspeeld wordt op dat moment. Ook heb ik geen standaard kleur gekozen voor de teksten om zo mijn eigen draai er aan te geven.
 ### Prioritise Identity
 Ik heb geprobeerd verschillende identiteiten te betrekken bij het maken van deze opdracht. Ik heb onderzoek gedaan naar hoe dove personen films bekijken. Ook heb ik gekeken naar de voorwaarden van de opdracht. Wat wordt er gevraagd?, wat is belangrijk? en wat wordt er verwacht? Ook heb ik mijn eigen ontwerpsidentieit heirbij betrokken. Wat past bij de film? Hoe kan ik er voor zorgen dat ik het expressiever kan maken? en een hele belangrijke voor mij: Hoe stap ik uit mijn eigen comfortzone om een zo goed mogelijk eindproduct neer te zetten?
 ### Add Nonsense
-Door je als ontwerper niet aan de standaard richtlijnen te houden vond ik even wennen. Het is buiten mijn comfortzone maar wel heel leuk om te doen! Verschilende kleurne tekst, gekke lichtflitsen en bewegend beeld. Deze dingen zijn eigenlijk allemaal erg storend maar samen vormt het wel een geheel. Op deze manier hoop ik de film leuker over te laten komen voo een doof persoon.
+Door je als ontwerper niet aan de standaard richtlijnen te houden vond ik even wennen. Het is buiten mijn comfortzone maar wel heel leuk om te doen! Verschillende kleuren tekst, gekke lichtflitsen en bewegend beeld. Deze dingen zijn eigenlijk allemaal erg storend maar samen vormt het wel een geheel. Op deze manier hoop ik de film leuker over te laten komen voo een doof persoon.
 
 ## Nawoord
----
+
 Webtypografie vond ik een erg lastig vak. :face_exhaling: Code is een onderwerp waar ik veel moeite mee heb en hierdoor minder leuk ben gaan vinden dan voorheen. Maar ondanks ik het een moeilijke opdracht vond heb ik er wel ontzettend veel van geleerd en het zelfs leuk gevonden! Iets wat ik uiteindelijk erg belangrijk vind.
 
 Ik heb helaas wel een 2e fragment moeten laten vallen omdat ik heel lang ben bezig geweest met het uitzoeken hoe alles werkt. Daarom heb ik alleen het 1e fragment zo goed mogelijk proberen neer te zetten!
@@ -99,3 +99,7 @@ Het maken van een transtion op een box-shadow. Deze heb ik gebruikt voor het opb
 Gebruikt voor kleuronderzoek vooral naar kleuren op zwart.
 6. https://webcode.tools/generators/css/keyframe-animation 
 Veschillende keyframe animaties, het schudden en blinken heb ik hier vandaan.
+
+--- 
+Deon Blok - Hogeschool van Amsterdam - Minor Visual Interface Design - Webtypografie
+---
