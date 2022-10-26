@@ -100,8 +100,8 @@ Add Nonsense
 ## Nawoord
 ---
 Webtypografie vond ik een erg lastig vak. :face_exhaling: Code is een onderwerp waar ik veel moeite mee heb en hierdoor minder leuk ben gaan vinden dan voorheen. Maar ondanks ik het een moeilijke opdracht vond heb ik er wel ontzettend veel van geleerd en het zelfs leuk gevonden! Iets wat ik uiteindelijk erg belangrijk vind.
-> Ik heb mijzelf uitgedaagd voor deze opdracht en ik ben er best wel trots op. 
-Ik heb helaas wel een 2e fragment moeten laten vallen omdat ik heel lang ben bezig geweest met het uitzoeken hoe alles werkt. Daarom heb ik alleen het 1e fragment zo goed mogelijk proberen neer te zetten!
 
+Ik heb helaas wel een 2e fragment moeten laten vallen omdat ik heel lang ben bezig geweest met het uitzoeken hoe alles werkt. Daarom heb ik alleen het 1e fragment zo goed mogelijk proberen neer te zetten!
+> Ik heb mijzelf uitgedaagd voor deze opdracht en ik ben er best wel trots op. 
 
 ## Bronnen
