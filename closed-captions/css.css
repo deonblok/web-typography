@@ -39,7 +39,7 @@ Feel free to adjust the defaults to your needs.
 }
 
 .voice1.on {
-    color: #60ecbd !important;
+    color: #C66FCA !important;
 }
 
 .voice2 {
@@ -47,7 +47,7 @@ Feel free to adjust the defaults to your needs.
 }
 
 .voice2.on {
-    color: #C66FCA !important;
+    color: #2fad83 !important;
 }
 
 .voice3.on {
@@ -72,14 +72,6 @@ The first paragraph, with extended timing for
 	spoken.
 You probably want to change the styling.
 ********************************************** */
-
-
-/* .p0 span {
-    opacity: 0;
-    font-family: brenner;
-    font-family: "brenner mono bold";
-    /* text-shadow: 0px 0px 18px rgb(49, 196, 120); 
-} */
 
 
 /* **********************************************
@@ -137,28 +129,52 @@ Sounds.
 }
 
 .sound3 #video-mask {
-    box-shadow: 0px 0px 98px 30px #ffffff;
+    animation: blink 1.1s ease-in 0s 1 normal forwards;
+}
+
+@keyframes blink {
+    0%,
+    50%,
+    100% {
+        opacity: 1;
+    }
+    25%,
+    75% {
+        opacity: 0;
+    }
 }
 
 .sound4 #video-mask {
-    box-shadow: none;
-}
-
-.sound5 {
-    background-color: black;
+    box-shadow: 0px 0px 98px 30px #ffffff;
 }
 
 .sound5 #video-mask {
-    box-shadow: 0px 0px 98px 65px #FF0000;
+    box-shadow: none;
+}
+
+.sound6 {
+    background-color: black;
 }
 
 .sound6 #video-mask {
+    box-shadow: 0px 0px 98px 65px #FF0000;
+}
+
+.sound7 #video-mask {
+    box-shadow: none;
+}
+
+.sound8 #video-mask {
+    box-shadow: 0px 0px 98px 95px #FF0000;
+}
+
+.sound9 #video-mask {
     box-shadow: none;
     background-color: black;
 }
 
-.sound7 #video-mask {
-    animation: scale 34s ease-in-out 0s 1 normal forwards;
+.sound10 #video-mask {
+    animation: scale 42s ease-in-out 0s 1 normal forwards;
     border: none;
 }
 
@@ -173,61 +189,26 @@ Sounds.
     }
 }
 
-.sound8 #video-mask {
+.sound11 #video-mask {
     box-shadow: none;
     transition: none;
     animation: none;
 }
 
-
-/* @keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-} */
-
-.sound10 {
-    background-color: white;
+.sound12 {
+    background-color: black;
 }
 
-.sound11 {
+.sound13 {
     background-color: blueviolet;
 }
 
-.sound12 {
+.sound14 {
     background-color: darkolivegreen;
 }
 
 
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
-
-
-/* .sound1 #video-mask {
-    -webkit-animation: test 4.5s ease-in-out;
-}
-
-/* @keyframes test {
-    50% {
-        box-shadow: 0 0 200px red;
-    }
-} */
-
-
-/* .sound3 #video-mask {
-    border: 1px solid;
-    box-shadow: 0 0 200px rgb(255, 255, 255);
-}
-
-.sound4 #video-mask {
-    border: none;
-    box-shadow: none;
-} */
 
 
 /* **********************************************
@@ -497,25 +478,28 @@ er gezegd wordt op dat moment.
 .p6.on span:first-of-type {
     opacity: 1;
     transition: 0s;
-    font-family: "brenner mono bold";
+    font-family: "brenner sans condensed Bo0Zp0Q";
     text-decoration: line-through;
     text-decoration-color: white;
     text-decoration-thickness: .07em;
+    font-size: 1.3em;
 }
 
 .p6.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s .4s;
-    font-family: "brenner mono bold";
+    font-family: "brenner sans condensed Bo0Zp0Q";
     text-decoration: line-through;
     text-decoration-color: white;
     text-decoration-thickness: .07em;
+    font-size: 1.3em;
 }
 
 .p6.on span:nth-of-type(3) {
     opacity: 1;
     transition: 0s .5s;
-    font-family: "brenner mono bold";
+    font-family: "brenner sans condensed Bo0Zp0Q";
+    font-size: 1.3em;
 }
 
 .p7.on span:first-of-type {
@@ -1442,21 +1426,8 @@ er gezegd wordt op dat moment.
     font-family: "brenner mono bold";
 }
 
-
-/* .p41.on span:nth-of-type(-n+3) {
+.p47.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s;
-    color: green;
+    transition: 0s .6s;
+    font-family: "brenner mono bold";
 }
-
-.p42.on span:nth-of-type(-n+3) {
-    opacity: 1;
-    transition: 0s;
-    color: rgb(70, 105, 210);
-}
-
-.p43.on span:nth-of-type(-n+3) {
-    opacity: 1;
-    transition: 0s;
-    color: rgb(216, 146, 132);
-} */

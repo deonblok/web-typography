@@ -64,14 +64,16 @@ Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespe
 
 *let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
 
-### Typografie
+## Typografie
+
 Voor de typografie heb ik gekozen voor het Brenner font, dit heb ik gekozen omdat ik hier de meeste kansen en verschillende mogelijkheden in zag. Door de verschillende soorten kan ik kiezen welke bij wat voor personage past. Ik heb gekozen voor Brenner Mono Bold. Een simpele een stevige letter. De personages (voice 1 & voice 2) praten beide erg streng en bazig waardoor ik vond dat er een bold font bij aansloot.
 
-Voor voice 3  het personage met een zin, Fuck off, skin-job! heb ik gekozen om het in een italic stijl te plaatsen. Zo valt het voor de kijker op dat er iets “speciaals” aan de hand is met deze zin. Dit personage loopt voorbij en brengt in de paar seconden een onprettige sfeer met zich mee. Om de sfeer te proberen over te brengen heb ik de woorden Fuck Off een line-through gegeven om aan te geven dat dit aantoongevende woorden zijn. Verder heb de woorden wel op normaal groote gelaten omdat het verder redelijk timide maar krachtig werd uitgesproken en ik de kijker niet het gevoel wilde geven dat het geschreeuwd werd.
+Voor voice 3  het personage met een zin, Fuck off, skin-job! heb ik gekozen om het in een italic stijl te plaatsen. Zo valt het voor de kijker op dat er iets “speciaals” aan de hand is met deze zin. Dit personage loopt voorbij en brengt in de paar seconden een onprettige sfeer met zich mee. Om de sfeer te proberen over te brengen heb ik de woorden Fuck Off een line-through gegeven om aan te geven dat dit aanstootgevende woorden zijn. Verder heb de woorden wel op normaal groote gelaten omdat het verder redelijk timide maar krachtig werd uitgesproken en ik de kijker niet het gevoel wilde geven dat het geschreeuwd werd.
 
 De vierde stem/ het vierde personage is voice 4. Deze komt in mij  einde terug in de filmscène. Het is een wat kalmere stem vergeleken de andere drie, ergens ook wel een beetje opgewekt.  Ik heb ook dit personage in Brenner Mono Bold  gedaan omdat ondanks hij wat kalmer is is de boodschap wel scherp. Hierdoor heb ik een contrast met kleur en typografie gebruikt om het gevoel zo goed mogelijk over te brengen op de kijker.
  
-### Kleurkeuze
+## Kleurkeuze
+
 Ik heb er voor gekozen de kijker een echt filmbeleving te proberen te geven. Een zwarte achtergrond zodat de filmscène er goed in naar voren komt.  Voor de verschillende personages heb ik ook verschillende kleuren gebruikt. Zo heb ik voor voice 1  een lichte groen blauwe neon kleur gebruikt. Deze komt goed naar voren op de zwarte achtergrond. Voor voice 2 heb ik gekozen voor een neon roze kleur. Ook deze kleur komt goed naar voren met de zwarte achtergrond. De kleuren van Voice 1 & Voice 2 heb ik gebaseerd op het allereerste beeld van deze film scene. De twee neon-borden zijn dezelfde kleuren. 
 Voor Voice 3 heb ik een rode kleur uitgekozen. Rood wordt vaak geassocieerd met kwaad en boos zijn. Doordat het personage aan het vloeken is in de scene heb ik dit gevoel proberen over te brengen.
 Als laatste voice 4, Voice 4 is een wat zachtere en timide stem met een duidelijke boodschap. Doordat ik al een wat stevigere letter heb uitgekozen wilde ik een goede balans vormen voor dit personage. Ik heb gekozen voor een gele kleur, geel wordt gezien als een vrolijke en lieve kleur. Vandaar dat ik een stevige letter wilde combineren met een wat lievere kleur om zo de balans te vinden en ook hier een gevoel mee heb proberen over te brengen.

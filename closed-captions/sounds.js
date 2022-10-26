@@ -7,27 +7,21 @@ sounds = [
     9,
     // boxshadow 3
     10,
+    12,
     // paars 4
     16.2,
     // goud 5
     17.2,
-    // zwart 6
+    // zwart 6  
     25.5,
     26.2,
-    // paars       16->17 paars
-    30.2,
+    // paars       16->17 wit licht
+    31,
+    32.5,
+    32.7,
     // magenta 7    15->17 zwart naar wit 
-    72,
+    75.8,
     // pink 8
     79,
-    // // zalm 9
-    // 55,
-    // // papaya 10
-    // 60,
-    // // blueviolet 11
-    // 85,
-    // // olijf 12
-    // 86,
-    // // 13
-    // 50,
+
 ];
