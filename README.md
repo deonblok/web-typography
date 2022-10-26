@@ -58,8 +58,9 @@ Voortgangsgesprek 2
 - Effecten weinig feedback voor omdat ik daar nog niet veel van had.
 - Bloodblack is meer tekst dan meaning overbrengen.
 - Geluid en tekst gescheiden houden. Vormgeven wat je hoort!
+- Karaoke stijl tekst
 
-Ik heb onderzoek gedaan naar juiste kleuren voor op een zwarte achtergrond. Ik heb deze kleurne uitgezocht in samenhanging met de film zodat het wel een geheel kon blijven. Ik had voor dit voortgangsgesprek nog niet echt veel effecten waardoor ik hier geen feedback op heb. In een van mijn eerste iteraies heb ik het woord Blood-black een gardient gegeven met zwrat en rood. Tijdens mijn feedback werd er gezegd dat blood-black helemaal geen meerwaarde heeft aan de film om het extra aandacht te geven. Daarom heb ik het bij een nieuwe iteratie verwijderd omdat het voor een doof persoon verwarrend kan worden als hier de nadruk op gelegd wordt.
+Ik heb onderzoek gedaan naar juiste kleuren voor op een zwarte achtergrond. Ik heb deze kleurne uitgezocht in samenhanging met de film zodat het wel een geheel kon blijven. Ik had voor dit voortgangsgesprek nog niet echt veel effecten waardoor ik hier geen feedback op heb. In een van mijn eerste iteraies heb ik het woord Blood-black een gardient gegeven met zwrat en rood. Tijdens mijn feedback werd er gezegd dat blood-black helemaal geen meerwaarde heeft aan de film om het extra aandacht te geven. Daarom heb ik het bij een nieuwe iteratie verwijderd omdat het voor een doof persoon verwarrend kan worden als hier de nadruk op gelegd wordt. Ik hoorde bij feedback bij ene andere student het idee van de tekst met onderlijning als een soort karaoke. Dit bracht mij op het idee om de tekst van kleur te laten veranderen bij elk gesproken woord. Op deze manier kan een doof persoon ook goed volgen wat er op dat moment gezegd wordt.
 Ik vond het lastig om inspiratie te krijgen voor het project. Ik merkte dat ik snel ging neigen naar de visuele aspecten in de film, een grote valkuil dus. Ik moest mij juist focussen op wat ik hoorde. Ik heb de video heel veel keer achterelkaar bekeken om goed te luisteren naar de geluiden. Zo ben ik gaan denken: Wat hoor ik? Wat voel ik? Wat willen ze overbrengen? Hoe kan ik dezelfde ervaring overbrengen aan iemand die het niet kan horen?
 
 
@@ -68,12 +69,15 @@ Ik vond het lastig om inspiratie te krijgen voor het project. Ik merkte dat ik s
 Ik vind het belangrijk om altijd je product te testen. Ik heb hierdoor in mijn eigen omgeving thuis gevraagd om mij hierbij te helpen. Ik heb de video getest met en zonder geluid. Dit heb ik gedaan om personen die buiten dit project staan de juiste ervaring te geven. Uit deze testen kon ik nieuwe iteraties maken op bijvoorbeeld de luide pieptoon aan het einde van het 1e fragment. Ik had eerst ene half witte box-shadow en deze heb ik volledig gemaakt voor een betere ervaring.
 
 ## Exclusive Design Principles
-Study Situation
+### Study Situation
+Ik heb voor dit project verschillende onderzoeken gedaan. Onderzoek naar verschillende css code & onderzoek naar de film en onderliggende feiten van de film. Ook heb ik wat gelezen over doofheid om mij beter in te leven in de doelgroep (een doof persoon). 
 
-Ignore Conventions
-Prioritise Identity
-Add Nonsense
-
+### Ignore Conventions
+Iedereen wilt begrijpen wat waar voor staat. Hier zijn standaard conventies voor omdat je zoveel mogelijk mensen wilt bereiken en het product laten begrijpen. Helaas zijn ook talloze mensen die hier buiten vallen waardoor zij niet de zelfde ervaring kunnen hebben als anderen. Zo ook een doof persoon. Zij beleven een film heel anders dan iemand die de film kan horen. Voor dove personen zijn er vaak als standaard conventie ondertitels met audiodiscriptie. Ik wilde dit doorbreken door geen audiodescriptie toe te voegen en de gebruiker echt kan zien wat er afgspeeld wordt op dat moment. Ook heb ik geen standaard kleur gekozen voor de teksten om zo mijn eigen draai er aan te geven.
+### Prioritise Identity
+Ik heb geprobeerd verschillende identiteiten te betrekken bij het maken van deze opdracht. Ik heb onderzoek gedaan naar hoe dove personen films bekijken. Ook heb ik gekeken naar de voorwaarden van de opdracht. Wat wordt er gevraagd?, wat is belangrijk? en wat wordt er verwacht? Ook heb ik mijn eigen ontwerpsidentieit heirbij betrokken. Wat past bij de film? Hoe kan ik er voor zorgen dat ik het expressiever kan maken? en een hele belangrijke voor mij: Hoe stap ik uit mijn eigen comfortzone om een zo goed mogelijk eindproduct neer te zetten?
+### Add Nonsense
+Door je als ontwerper niet aan de standaard richtlijnen te houden vond ik even wennen. Het is buiten mijn comfortzone maar wel heel leuk om te doen! Verschilende kleurne tekst, gekke lichtflitsen en bewegend beeld. Deze dingen zijn eigenlijk allemaal erg storend maar samen vormt het wel een geheel. Op deze manier hoop ik de film leuker over te laten komen voo een doof persoon.
 
 ## Nawoord
 ---
@@ -83,3 +87,15 @@ Ik heb helaas wel een 2e fragment moeten laten vallen omdat ik heel lang ben bez
 > **Ik heb mijzelf uitgedaagd voor deze opdracht en ik ben er best wel trots op.** 
 
 ## Bronnen
+1. https://stackoverflow.com/questions/16371722/select-multiple-child-in-css
+Deze heb ik gebruikt om uit te zoeken hoe ik bepaalde stukken tekst kon aanspreken. Dit was in een eerdere iteratie en heb ik uiteindelijk niet meer gebruikt.
+2. https://www.youtube.com/watch?v=OtLvtMqWNz8
+Deze video heb ik bekeken voor onderzoek naar de film. Er wordt gepraat over waarom interlinked en cells gebruikt wordt in het script en waar het vandaan komt. (Heel interessant!)
+3. https://blog.cloud66.com/box-shadow-transition-performance 
+Het maken van een transtion op een box-shadow. Deze heb ik gebruikt voor het opbouwen van een felle witte licht flits tijdens de luide piep.
+4. https://www.w3schools.com/css/css_important.asp 
+!important tag om tijdens het verloop van de tekst mee te kunnen lezen.
+5. https://graphicdesign.stackexchange.com/questions/20258/colors-to-use-with-black-background 
+Gebruikt voor kleuronderzoek vooral naar kleuren op zwart.
+6. https://webcode.tools/generators/css/keyframe-animation 
+Veschillende keyframe animaties, het schudden en blinken heb ik hier vandaan.
